@@ -1,2 +1,2 @@
 # bookbot
-Boot.dev project
+BookBot isn't my first git project!
